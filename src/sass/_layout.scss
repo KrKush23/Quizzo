@@ -1,0 +1,16 @@
+.header {
+  padding: 2rem 5rem 7rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: var(--color-1);
+  color: var(--color-4);
+  font-size: 3.3rem;
+
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 75%, 0 100%);
+}
+
+.selection {
+  text-align: center;
+  font-size: 2rem;
+}
